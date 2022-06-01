@@ -29,7 +29,12 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
   Travel review and sharing site <a href="https://github.com/ikkundayo/WorldTrip/blob/main/README.md">(details)</a>  
   
   - Languages and Tools  
-  Ruby(Ruby on Rails) , HTML.CSS(SCSS) , JavaScript , jQuery
+  Ruby(Ruby on Rails) , HTML.CSS(SCSS) , JavaScript , jQuery  
+ 
+  &nbsp; &nbsp; 
+  <img src="https://user-images.githubusercontent.com/97657938/171466348-a12188e2-3050-47d4-84bd-ccb1328b6576.gif" height="250px" />
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://user-images.githubusercontent.com/97657938/171471320-1bf3f67e-4146-4c11-871f-12de82f62216.gif" height="250px" />
 </details>  
 
 ### [ Training ]

@@ -3,6 +3,7 @@ src="https://github.com/ikkundayo/ikkundayo/raw/main/images/Hi.gif" height="32" 
 
 Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
 * 👨‍💻 Interested in full stack. Recent focus on Backend.
+
 * ⚡️ Fun fact: I love to take a nap😴
 * 🌱 Currently learning  <p>
  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -41,3 +42,4 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
   - Languages and Tools  
   HTML.CSS(SCSS) , JavaScript
 </details>
+![test](https://user-images.githubusercontent.com/97657938/171456786-96f207ae-bbf6-4b55-889c-9932d1dac95a.gif)

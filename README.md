@@ -1,9 +1,12 @@
-## :fire: My Stats :
+##  My Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkundayo&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ikkundayo&theme=onedark&show_icons=ture" />
 </p>
 
+##  Deliverables
+### [ Portfolio ]
+### [ Training ]
 <!-- ## 📚 Mainly Learning Languages
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 

@@ -42,4 +42,3 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
   - Languages and Tools  
   HTML.CSS(SCSS) , JavaScript
 </details>
-![test](https://user-images.githubusercontent.com/97657938/171456786-96f207ae-bbf6-4b55-889c-9932d1dac95a.gif)

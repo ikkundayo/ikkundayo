@@ -21,7 +21,7 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
 
 ##  Deliverables
 ### [ Portfolio ] 
-<details>
+<details open>
   <summary><a href="http://worldtrip.life/">WorldTrip</a></summary>  
   
   - Overview  
@@ -32,7 +32,7 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
 </details>  
 
 ### [ Training ]
-<details>
+<details open>
   <summary><a href="https://ikkundayo.github.io/Stay-World/">StayWorld</a></summary>  
   
   - Overview  

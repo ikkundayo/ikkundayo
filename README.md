@@ -45,5 +45,8 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
   website(animation) <a href="https://github.com/ikkundayo/Stay-World">(details)</a>  
   
   - Languages and Tools  
-  HTML.CSS(SCSS) , JavaScript
+  HTML.CSS(SCSS) , JavaScript  
+ 
+  &nbsp; &nbsp; 
+  <img src="https://user-images.githubusercontent.com/97657938/171525990-fda133a3-28a7-4f15-9b21-63305903fd60.gif" height="220px" />
 </details>

@@ -66,7 +66,7 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
   <summary>Board</summary>  
   
   - Overview  
-  Board app <a href="https://github.com/ikkundayo/boardproject">(details)</a>  
+  Board app <a href="https://github.com/ikkundayo/Boardproject">(details)</a>  
   
   - Languages and Tools  
   Python(django) , HTML.CSS(Bootstrap).   

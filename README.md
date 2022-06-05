@@ -38,7 +38,7 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
 </details>  
 
 ### [ Training ]
-<details open>
+<details>
   <summary><a href="https://ikkundayo.github.io/Stay-World/">StayWorld</a></summary>  
   
   - Overview  
@@ -49,4 +49,28 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
  
   &nbsp; &nbsp; 
   <img src="https://user-images.githubusercontent.com/97657938/171525990-fda133a3-28a7-4f15-9b21-63305903fd60.gif" height="220px" />
+</details>  
+<details>
+  <summary>Todo</summary>  
+  
+  - Overview  
+  Todo app <a href="https://github.com/ikkundayo/Todoproject">(details)</a>  
+  
+  - Languages and Tools  
+  Python(django) , HTML.CSS(Bootstrap)  
+ 
+  &nbsp; &nbsp; 
+  <img src="https://user-images.githubusercontent.com/97657938/172051584-d915f4a7-e515-40e9-8613-6d29655f8863.gif" height="220px" />
+</details>  
+<details>
+  <summary>Board</summary>  
+  
+  - Overview  
+  Board app <a href="https://github.com/ikkundayo/boardproject">(details)</a>  
+  
+  - Languages and Tools  
+  Python(django) , HTML.CSS(Bootstrap).   
+ 
+  &nbsp; &nbsp; 
+  <img src="https://user-images.githubusercontent.com/97657938/172051765-e88c2e02-3b01-4bc5-a8fb-1d279b642ddc.gif" height="220px" />
 </details>

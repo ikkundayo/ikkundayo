@@ -23,7 +23,7 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
 ##  Deliverables
 ### [ Portfolio ] 
 <details open>
-  <summary><a href="http://worldtrip.life/">WorldTrip</a></summary>  
+  <summary>WorldTrip</summary>  
   
   - Overview  
   Travel review and sharing site <a href="https://github.com/ikkundayo/WorldTrip/blob/main/README.md">(details)</a>  

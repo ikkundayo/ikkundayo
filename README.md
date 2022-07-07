@@ -9,6 +9,7 @@ Hi, I'm Kuma, Aim to be a fullstack engineer from Japan 🇯🇵
  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 </p>
